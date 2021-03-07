@@ -3,7 +3,7 @@ den465341@gmail.com
 https://vk.com/d.slabodchikov
 
 _**Hi!**_
-**My goal is to become a web developer.** Priority is React development.   
+**My goal is to become a web developer.**
 
 Skills: 
 _1. React basics_
