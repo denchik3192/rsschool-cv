@@ -1,6 +1,6 @@
 # Slabodchykov Denis
 den465341@gmail.com
-https://vk.com/d.slabodchikov
+### 37298623039
 
 _**Hi!**_
 **My goal is to become a web developer.**
