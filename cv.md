@@ -1,0 +1,31 @@
+# Slabodchykov Denis
+den465341@gmail.com
+https://vk.com/d.slabodchikov
+
+_**Hi!**_
+**My goal is to become a web developer.** Priority is React development.   
+
+Skills: 
+_1. React basics_
+_2. JS basics_
+_3. css_
+_4. html._
+
+
+Code examples: 
+```
+let mapDispatchToProps = (dispatch) => {
+    return {
+        addMessage: (newMessageText) => {
+            dispatch(addMessageCreator(newMessageText));
+        }
+
+    }
+}
+```
+
+Courses : React, js , html, css.
+
+Education: BELARUSIAN-RUSSIAN UNIVERSITY, Mogilev.
+
+English: Pre-intermediate
