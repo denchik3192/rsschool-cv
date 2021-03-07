@@ -24,7 +24,7 @@ let mapDispatchToProps = (dispatch) => {
 }
 ```
 
-Courses : React, js , html, css.
+Courses : 
 
 Education: BELARUSIAN-RUSSIAN UNIVERSITY, Mogilev.
 
