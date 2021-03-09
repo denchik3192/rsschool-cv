@@ -1,0 +1,75 @@
+*{
+    box-sizing: border-box;
+    
+}
+
+.container{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 1012px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+}
+
+.profile-goals-container{
+
+    display: flex;
+    align-items: center;
+}
+.cv-profile{
+    padding-left: 40px;
+}
+.cv-profile h1{
+    font-size:xx-large;
+}
+.cv-profile img{
+    border-radius: 5%;
+}
+
+.cv-header{
+    color: rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(134, 134, 134);
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.goals{
+    padding-left: 40px;
+    font-weight: 500;
+    
+}
+.skils{
+    padding-left: 40px;
+}
+
+.code-section{
+    padding-left: 40px;
+}
+        
+.code{
+    background-color: rgba(72, 134, 160, 0.986);
+    padding: 16px;
+    color: aliceblue;
+    /* padding-left: 40px; */
+}
+
+.experience{
+    padding-left: 40px;
+}
+
+footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(134, 134, 134);
+    height: 100px;
+    color: aliceblue;
+}
+footer a{
+    text-decoration: none;
+    color: azure;
+}
